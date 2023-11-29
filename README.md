@@ -1,5 +1,5 @@
 
-# workshop
+
 
 ## Install the composer then check if composer is properly installed:
 
