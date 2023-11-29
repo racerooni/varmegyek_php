@@ -1,0 +1,15 @@
+.idk{
+    color: red;
+}
+
+.pereg{
+    transition: 300ms ease-in-out;
+}
+
+.pereg:hover{
+    rotate: 360deg;
+}
+
+.bgxd{
+    background-color: #7777;
+}
